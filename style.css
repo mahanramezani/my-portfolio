@@ -158,13 +158,13 @@ body {
 .header .nav .left {
   display: flex;
   align-items: center;
-  gap: 10px;
 }
 
 .header .nav .left .name {
   color: #fff;
   font-weight: 400;
   font-size: 20px;
+  margin-left:10px;
 }
 
 .header .nav .left .logo {
