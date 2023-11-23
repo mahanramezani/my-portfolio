@@ -406,6 +406,9 @@ body {
 
 /* media queries */
 @media(max-width:991px) {
+  .media{
+   display:none;
+  }
   .about .about-content {
     grid-template-columns: 1fr;
   }
