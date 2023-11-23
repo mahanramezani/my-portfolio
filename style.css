@@ -308,7 +308,6 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  gap: 20px;
   position: absolute;
   background-color: rgba(10, 40, 120, .8);
   width: 100%;
@@ -321,6 +320,7 @@ body {
   background-color: #fff;
   color: #222;
   border-radius: 4px;
+  margin:0 10px;
 }
 
 .work .work-cards .card:hover .btns-wrapper {
